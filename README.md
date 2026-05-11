@@ -1,54 +1,54 @@
 <div align="center">
 
-# Rafael Carvalho 👋
+# Rafael Carvalho
 
 ### Multilingual Full-Stack Developer based in Paris 🇫🇷
 
-Building modern and scalable web applications with modern technologies.
+Building scalable and modern digital products with cutting-edge web technologies.
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,symfony,supabase,nodejs,postgres,tailwind,git,vercel" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🌍 Based in Paris, France
-- 💬 Multilingual Developer
-- ⚡ Passionate about modern web technologies
-- 🧠 Focused on building scalable full-stack applications
-- 🌱 Currently improving my skills in backend architecture and modern product development
-- 🎯 Open to international tech opportunities
+I'm a multilingual Full-Stack Developer passionate about building modern, scalable and user-focused web applications.
+
+Currently focused on:
+- Modern frontend architecture
+- Full-stack web applications
+- Backend development
+- Scalable digital products
+- High-performance user experiences
+
+Based in Paris and open to international opportunities.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-## Frontend
+### Frontend
 - React
 - Next.js
 - TypeScript
 - JavaScript
 - Tailwind CSS
 
-## Backend
+### Backend
 - Symfony
 - Node.js
 - REST APIs
 - Supabase
 
-## Database
+### Database
 - PostgreSQL
 - MySQL
 
-## Tools
+### Tools & Platforms
 - Git
 - GitHub
 - Vercel
@@ -56,48 +56,57 @@ Building modern and scalable web applications with modern technologies.
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🛒 Mynify
-Modern ecommerce web application built with Next.js and TypeScript.
+### 🛒 Mynify
+Modern ecommerce platform built with Next.js and TypeScript.
 
-### Features
-- Responsive UI
-- Modern ecommerce experience
-- Component-based architecture
-- Optimized frontend performance
-- Deployed online
+#### Highlights
+- Responsive modern UI
+- Scalable frontend architecture
+- Ecommerce experience
+- Optimized performance
+- Production-ready deployment
 
 🔗 https://github.com/mixrafynha/mynify
 
 ---
 
-## 🍽️ ViteGourmand
-Modern food platform built with Symfony and scalable backend architecture.
+### 🍽️ ViteGourmand
+Modern food platform built with Symfony and backend-focused architecture.
 
-### Features
-- Backend architecture
-- API structure
-- Database integration
+#### Highlights
 - Symfony ecosystem
+- Backend architecture
+- Database integration
+- API structure
+- Full-stack development
 
 🔗 https://github.com/mixrafynha/vitegourmand
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mixrafynha&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mixrafynha&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixrafynha&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixrafynha&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌍 Languages
+
+- Portuguese 🇵🇹
+- French 🇫🇷
+- English 🇬🇧
+
+---
+
+## 🌐 Connect With Me
 
 - GitHub: https://github.com/mixrafynha
 - LinkedIn: add-your-link-here
