@@ -7,7 +7,7 @@
 Building scalable and modern digital products with cutting-edge web technologies.
 
 <p align="center">
-  <img src="banner.jpg" />
+  <img src="banner.jpg" width="100%" />
 </p>
 
 </div>
