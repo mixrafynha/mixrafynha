@@ -7,10 +7,8 @@
 Building scalable and modern digital products with cutting-edge web technologies.
 
 <p align="center">
-  <img src="banner.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/mixrafynha/mixrafynha/main/banner.jpg" width="100%" />
 </p>
-
-</div>
 
 ---
 
