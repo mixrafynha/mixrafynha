@@ -7,7 +7,7 @@
 Building scalable and modern digital products with cutting-edge web technologies.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,symfony,supabase,nodejs,postgres,tailwind,git,vercel" />
+  <img src="banner.jpg" />
 </p>
 
 </div>
