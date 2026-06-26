@@ -1,149 +1,182 @@
+# 👋 Hi, I'm Rafael Carvalho
+
 <div align="center">
 
 <img src="https://github.com/mixrafynha/mixrafynha/blob/main/banner.png?raw=true" width="100%" />
 
-<br/>
-<br/>
+<br>
 
-# 👋 Rafael Carvalho
+<h1>Full Stack Software Engineer</h1>
 
-### Multilingual Full-Stack Developer based in Paris 🇫🇷
+<p>
 
-<p align="center">
-  Building scalable and modern digital products with cutting-edge web technologies.
+Building modern SaaS products with a strong focus on performance, user experience and scalable architecture.
+
 </p>
 
-<br/>
+<p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,symfony,supabase,nodejs,postgres,tailwind,git,github,vercel,figma" />
+🇫🇷 Paris • 🇵🇹 Portuguese • 🇫🇷 French • 🇬🇧 English
+
 </p>
 
-<br/>
+<p>
 
-<p align="center">
-  <a href="mailto:rafynhabussiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mixrafynha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://ryfio.com">
+<img src="https://img.shields.io/badge/Website-Ryfio-6D28D9?style=for-the-badge">
+</a>
+
+<a href="https://github.com/mixrafynha">
+<img src="https://img.shields.io/badge/GitHub-mixrafynha-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:rafynhabussiness@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/rafael-carvalho-709064408/">
+<img src="https://img.shields.io/badge/LinkedIn-Rafael-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 About
 
-I'm a multilingual Full-Stack Developer passionate about building scalable, modern and user-focused web applications.
+I'm a Full Stack Software Engineer passionate about designing and building production-ready SaaS applications from the ground up.
 
-💡 Currently focused on:
+My work focuses on modern web technologies, scalable architecture and delivering polished user experiences with high performance.
 
-- Modern frontend architecture
-- Full-stack web applications
-- Backend development
-- Scalable digital products
-- High-performance user experiences
-
-🌍 Based in Paris and open to international opportunities.
+Currently building **Ryfio**, a Print-on-Demand platform that combines product customization, cloud infrastructure and ecommerce into a complete SaaS solution.
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Current Project
+
+## <img src="./favicon.png" width="20"> Ryfio
+
+**Modern Print-on-Demand SaaS Platform**
+
+Ryfio enables creators and brands to design, customize and sell products online without inventory.
+
+### Highlights
+
+* Advanced Canvas Editor
+* AI Mockup Generation
+* Authentication
+* Product Dashboard
+* Product Management
+* Print-ready Export
+* Responsive Design
+* SEO Optimized
+* Cloud Storage
+* Mobile-first UX
+
+### Tech
+
+Next.js • React • TypeScript • Tailwind CSS • Supabase • PostgreSQL • Firebase • Vercel
+
+🌐 https://ryfio.com
+
+---
+
+# ⚙ Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,figma"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,symfony"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
-| Frontend | Backend | Database | Tools |
-|---|---|---|---|
-| React | Symfony | PostgreSQL | Git |
-| Next.js | Node.js | MySQL | GitHub |
-| TypeScript | REST APIs | Supabase | Vercel |
-| Tailwind CSS | Express.js | Prisma | Figma |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mixrafynha&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixrafynha&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+# 🧠 What I'm Currently Learning
 
-## 🛒 Mynify
-
-Modern ecommerce platform built with Next.js and TypeScript.
-
-### ✨ Highlights
-
-- Responsive modern UI
-- Scalable frontend architecture
-- Ecommerce experience
-- Optimized performance
-- Production-ready deployment
-
-🔗 https://github.com/mixrafynha/mynify
-
-<br/>
-
-## 🍽️ ViteGourmand
-
-Modern food platform built with Symfony and backend-focused architecture.
-
-### ✨ Highlights
-
-- Symfony ecosystem
-- Backend architecture
-- Database integration
-- API structure
-- Full-stack development
-
-🔗 https://github.com/mixrafynha/vitegourmand
+* Advanced System Design
+* Distributed Systems
+* Scalable Backend Architecture
+* AI Integrations
+* Performance Optimization
+* Clean Architecture
 
 ---
 
-# 📈 GitHub Analytics
+# 🎯 Goals
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mixrafynha&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixrafynha&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
+* Build products used by thousands of users.
+* Contribute to high-impact engineering teams.
+* Continue improving developer experience and product quality.
+* Create scalable SaaS products with excellent UX.
 
 ---
 
 # 🌍 Languages
 
-<div align="center">
+🇵🇹 Portuguese — Native
 
-🇵🇹 Portuguese • 🇫🇷 French • 🇬🇧 English
+🇫🇷 French — Professional
 
-</div>
+🇬🇧 English — Professional
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Contact
 
-<div align="center">
+📧 [rafynhabussiness@gmail.com](mailto:rafynhabussiness@gmail.com)
 
-<a href="mailto:rafynhabussiness@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rafynhabussiness%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+🌐 https://ryfio.com
 
-<br/>
-<br/>
+💼 https://www.linkedin.com/in/rafael-carvalho-709064408/
 
-<a href="https://github.com/mixrafynha">
-  <img src="https://img.shields.io/badge/GitHub-mixrafynha-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+🐙 https://github.com/mixrafynha
 
 ---
 
 <div align="center">
 
-### ⚡ Building modern digital experiences
+### Building products that people enjoy using.
+
+⭐ If you like my work, feel free to explore my repositories.
 
 </div>
