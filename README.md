@@ -10,7 +10,7 @@ Building scalable SaaS products with **React**, **Next.js**, **TypeScript** and 
 
 # 🚀 Ryfio
 
-![Ryfio](https://raw.githubusercontent.com/mixrafynha/ryfio/main/public/favicon.png)
+![Ryfio]([https://raw.githubusercontent.com/mixrafynha/ryfio/main/public/favicon.png](https://github.com/mixrafynha/mixrafynha/blob/main/favicon.png))
 
 ## Modern Print-on-Demand SaaS Platform
 
