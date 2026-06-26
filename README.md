@@ -1,37 +1,43 @@
-# 👋 Hi, I'm Rafael Carvalho
+<div align="center">
 
-**Full Stack Software Engineer**
+<img src="https://github.com/mixrafynha/mixrafynha/blob/main/banner.png?raw=true" width="100%" />
 
-Building scalable SaaS products with **React**, **Next.js**, **TypeScript** and **Node.js**.
+<br>
 
-🇫🇷 Paris, France
+<img src="https://raw.githubusercontent.com/mixrafynha/mixrafynha/main/favicon.png" width="90"/>
+
+# Rafael Carvalho
+
+### Full Stack Software Engineer
+
+Building modern SaaS products.
+
+🇫🇷 Paris • React • Next.js • TypeScript • Node.js
+
+[Website](https://ryfio.com) • [LinkedIn](https://www.linkedin.com/in/rafael-carvalho-709064408/) • [Email](mailto:rafynhabussiness@gmail.com)
+
+</div>
 
 ---
 
-# 🚀 Ryfio
+# 🚀 Currently Building
 
-<img src="https://github.com/mixrafynha/mixrafynha/raw/main/favicon.png" width="90" alt="Ryfio Logo">
+## <img src="https://raw.githubusercontent.com/mixrafynha/mixrafynha/main/favicon.png" width="22"> Ryfio
 
-## Modern Print-on-Demand SaaS Platform
+Modern Print-on-Demand SaaS Platform
 
-🌐 **https://ryfio.com**
-
-Ryfio is a production-ready Print-on-Demand SaaS platform designed to help creators and brands launch products without managing inventory.
-
-Built entirely from scratch using a modern full-stack architecture, Ryfio combines product customization, cloud infrastructure and ecommerce workflows into a single scalable platform.
-
-## Features
+### Features
 
 - 🎨 Advanced Canvas Editor
-- 🖼️ Live Product Preview
 - 🤖 AI Mockup Generation
-- 👕 Front & Back Product Design
 - 📦 Product Management
 - 🔐 Authentication
-- 📱 Mobile-first Interface
+- ☁️ Cloudflare R2 Storage
 - ⚡ High Performance
+- 📱 Mobile-first UI
 - 🔍 SEO Optimized
-- ☁️ Cloud Storage
+
+🌐 https://ryfio.com
 
 ---
 
@@ -39,63 +45,67 @@ Built entirely from scratch using a modern full-stack architecture, Ryfio combin
 
 ### Frontend
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind"/>
+
+</p>
 
 ### Backend
 
-- Node.js
-- Supabase
-- Firebase
-- REST APIs
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase"/>
+
+</p>
 
 ### Database
 
-- PostgreSQL
+<p>
 
-### Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
-- Vercel
-- GitHub
-- Git
+</p>
+
+### Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vercel,github,git"/>
+
+</p>
+
+- Cloudflare R2
+- Vercel Edge Deployment
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mixrafynha&show_icons=true&theme=transparent)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixrafynha&layout=compact&theme=transparent)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mixrafynha&show_icons=true&hide_border=true&theme=transparent"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixrafynha&layout=compact&hide_border=true&theme=transparent"/>
 
-# 🎯 Currently Learning
-
-- System Design
-- Distributed Systems
-- Cloud Infrastructure
-- AI Integrations
-- Performance Optimization
+</p>
 
 ---
 
 # 🌍 Languages
 
-- 🇵🇹 Portuguese — Native
-- 🇫🇷 French — Professional
-- 🇬🇧 English — Professional
+🇵🇹 Portuguese (Native)
+
+🇫🇷 French (Professional)
+
+🇬🇧 English (Professional)
 
 ---
 
-# 📫 Contact
+<div align="center">
 
-- 🌐 https://ryfio.com
-- 🐙 https://github.com/mixrafynha
-- 💼 https://www.linkedin.com/in/rafael-carvalho-709064408/
-- 📧 rafynhabussiness@gmail.com
+### Building products that people enjoy using.
 
----
+⭐ Thanks for visiting my profile.
 
-> Building software with performance, scalability and user experience in mind.
+</div>
